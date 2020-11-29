@@ -27,7 +27,7 @@ lon = input("Coordinates, Longitude: ")
 
 isp = input("Targets Internet Service Provider: ")
 
-zip = input("Target's Zip Code: ")
+zip = input("Target's Zip Code: )
 
 yn = input("who to credit the dox to: ")
 
@@ -47,14 +47,15 @@ ___  __   __                      __   ___     __         ___       ___
 =====================================================================================
 """)
 
-print("\u001b[31m[#]Name:\u001b[0m " +      name)
+print("\u001b[31m[#]Name: \u001b[0m " +      name)
 print("\u001b[31m[#]Usernames:  \u001b[0m" + usr)
-print("\u001b[31m[#]Country\u001b[0m: " +   country)
+print("\u001b[31m[#]Country: \u001b[0m: " +   country)
 print("\u001b[31m[#]Region Or State: \u001b[0m" +    region)
 print("\u001b[31m[#]City: \u001b[0m" + city)
 print("\u001b[31m[#]Address: \u001b[0m" +   address)
+print("\u001b[31m[#]Zip Code: \u001b[0m" +   zip)            
 print("\u001b[31m[#]Internet Service Provider: \u001b[0m" +   isp)
-print("\u001b[31m[#]Zip Code: \u001b[0m" +   zip)
+print("\u001b[31m[#]Zip Code: \u001b[0m" + zip)
 print("\u001b[31m[#]Latitude: \u001b[0m" + lat)
 print("\u001b[31m[#]Longitude: \u001b[0m" + lon)
 print("\u001b[31m[#]IP: \u001b[0m" + ip)

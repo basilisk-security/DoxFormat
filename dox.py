@@ -7,7 +7,7 @@ usr = input("Target's Usernames: ")
 
 country = input("Target's Country: ")
 
-region = input("Target's Region: ")
+region = input("Target's Region OR State: ")
 
 address = input("Target's Home Address: ")
 
@@ -50,7 +50,7 @@ ___  __   __                      __   ___     __         ___       ___
 print("\u001b[31m[#]Name:\u001b[0m " +      name)
 print("\u001b[31m[#]Usernames:  \u001b[0m" + usr)
 print("\u001b[31m[#]Country\u001b[0m: " +   country)
-print("\u001b[31m[#]Region: \u001b[0m" +    region)
+print("\u001b[31m[#]Region Or State: \u001b[0m" +    region)
 print("\u001b[31m[#]City: \u001b[0m" + city)
 print("\u001b[31m[#]Address: \u001b[0m" +   address)
 print("\u001b[31m[#]Internet Service Provider: \u001b[0m" +   isp)

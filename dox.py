@@ -1,6 +1,5 @@
-import os
 
-os.system("cls")
+import os
 
 name = input("Target's Full Name: ")
 
